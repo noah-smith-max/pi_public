@@ -1,0 +1,62 @@
+{
+  "main": {
+    "version_code": 1,
+    "version_name": "0.0.1",
+    "download": {
+      "windows": "https://github.com/noah-smith-max/pi_project/releases/download/v0.0.1/pi_main.exe.zip",
+      "macos": "https://github.com/noah-smith-max/pi_project/releases/download/v0.0.1/pi_main.zip"
+    },
+    "download_cn": {
+      "windows": "https://cnb.cool/pi_star/pi_star_repo/-/files/GdEh8K8lB4OsdIonLsoJ9C/69f4c666-8e04-4d3b-a2d8-9592319738c8/pi_main.exe.zip",
+      "macos": "https://cnb.cool/pi_star/pi_star_repo/-/files/GdEh8K8lB4OsdIonLsoJ9C/04fec94e-b746-459b-a8bd-053bfbde7557/pi_main.zip"
+    }
+  },
+  "update_info": {
+    "version_code": 1,
+    "version_name": "0.0.1",
+    "download": {
+      "windows": "https://github.com/noah-smith-max/pi_project/releases/download/v0.0.1/pi_update.exe.zip",
+      "macos": "https://github.com/noah-smith-max/pi_project/releases/download/v0.0.1/pi_update.zip"
+    },
+    "download_cn": {
+      "windows": "https://cnb.cool/pi_star/pi_star_repo/-/files/GdEh8K8lB4OsdIonLsoJ9C/f6cbb0f1-b31e-47a4-8057-453cc02da576/pi_update.exe.zip",
+      "macos": "https://cnb.cool/pi_star/pi_star_repo/-/files/GdEh8K8lB4OsdIonLsoJ9C/400f81d4-b79d-4b64-ab1e-18a36b529f0b/pi_update.zip"
+    }
+  },
+  "flutter_info": {
+    "version_code": 1,
+    "version_name": "0.0.1",
+    "download_cn": {
+      "windows": "https://cnb.cool/pi_star/pi_star_repo/-/files/GdEh8K8lB4OsdIonLsoJ9C/02c354bc-8da7-4c53-a407-c59d5e17737a/flutter_process.exe.zip",
+      "macos": "https://cnb.cool/pi_star/pi_star_repo/-/files/GdEh8K8lB4OsdIonLsoJ9C/c7ffcbd9-3e7a-4153-9afb-1712953a3c93/flutter_process.zip"
+    },
+    "download": {
+      "windows": "https://github.com/noah-smith-max/pi_project/releases/download/v0.0.1/flutter_process.exe.zip",
+      "macos": "https://github.com/noah-smith-max/pi_project/releases/download/v0.0.1/flutter_process.zip"
+    }
+  },
+  "android_info": {
+    "version_code": 1,
+    "version_name": "0.0.1",
+    "download": {
+      "windows": "https://github.com/noah-smith-max/pi_project/releases/download/v0.0.1/android_process.exe.zip",
+      "macos": "https://github.com/noah-smith-max/pi_project/releases/download/v0.0.1/android_process.zip"
+    },
+    "download_cn": {
+      "windows": "https://cnb.cool/pi_star/pi_star_repo/-/files/GdEh8K8lB4OsdIonLsoJ9C/289592b3-3886-443b-adde-8e63bb48c139/android_process.exe.zip",
+      "macos": "https://cnb.cool/pi_star/pi_star_repo/-/files/GdEh8K8lB4OsdIonLsoJ9C/21c72d23-8235-4750-9c96-9a311c8e1ab9/android_process.zip"
+    }
+  },
+  "java_info": {
+    "version_code": 1,
+    "version_name": "0.0.1",
+    "download": {
+      "windows": "https://github.com/noah-smith-max/pi_project/releases/download/v0.0.1/java_process.exe.zip",
+      "macos": "https://github.com/noah-smith-max/pi_project/releases/download/v0.0.1/java_process.zip"
+    },
+    "download_cn": {
+      "windows": "https://cnb.cool/pi_star/pi_star_repo/-/files/GdEh8K8lB4OsdIonLsoJ9C/fe21e9e8-915e-4542-81f2-08b10833339f/java_process.exe.zip",
+      "macos": "https://cnb.cool/pi_star/pi_star_repo/-/files/GdEh8K8lB4OsdIonLsoJ9C/3c668f1e-942a-4ac3-a58d-c6dd12d9b0d8/java_process.zip"
+    }
+  }
+}
